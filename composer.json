@@ -1,21 +1,21 @@
 {
-    "name": "xwolf/web-tool",
+    "name": "wust/web-tool",
     "description": "common tool kit",
     "type": "library",
 	"keywords": [
         "Tools",
         "Library"
     ],
-	"homepage": "https://github.com/lanlangdeai/WebTool",
+	"homepage": "https://github.com/wustzdd/WebTool",
 	"license": "Apache-2.0",
     "authors": [
         {
             "name": "lanlang",
             "email": "liaotiam@126.com",
-			"role": "Developer"
+	    "role": "Developer"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
 		"php": ">=5.4.0"
 	},
