@@ -1,0 +1,27 @@
+{
+    "name": "xwolf/web-tool",
+    "description": "common tool kit",
+    "type": "library",
+	"keywords": [
+        "Tools",
+        "Library"
+    ],
+	"homepage": "https://github.com/lanlangdeai/WebTool",
+	"license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "lanlang",
+            "email": "liaotiam@126.com",
+			"role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+        "psr-4": {
+            "WebTool\\": "src/"
+        }
+    }
+}
