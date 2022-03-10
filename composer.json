@@ -1,6 +1,7 @@
 {
     "name": "wust/web-tool",
     "description": "common tool kit",
+"version": "1.0.0",
     "type": "library",
 	"keywords": [
         "Tools",
